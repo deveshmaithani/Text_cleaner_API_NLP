@@ -1,0 +1,1 @@
+## Text cleaner class with api
